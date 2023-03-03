@@ -39,3 +39,9 @@ Repositório de estudos sobre o Data Build Tool.
 
 <a href="https://github.com/JevertonFlores/learn_dbt_db_northwind/tree/main/models">- Desenvolvimento do projeto</a> 
 
+
+
+
+Ambiente de prod no Redshift
+
+<img width="677" alt="image" src="https://user-images.githubusercontent.com/36814309/222619722-6746d931-cdd1-48e6-8703-78a2c502db4a.png">
