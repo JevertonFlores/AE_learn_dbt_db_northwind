@@ -13,7 +13,7 @@ Repositório de estudos sobre o Data Build Tool.
 
 - Criação das credenciais e configuração de acesso aos IPs utilizados pelo DBT;
 
-- Importação dos dados do S3 para o Redshift
+- Importação dos dados do S3 para o Redshift.
 
 
 <h3>DBT</h3>
@@ -39,6 +39,12 @@ Repositório de estudos sobre o Data Build Tool.
 
 <a href="https://github.com/JevertonFlores/learn_dbt_db_northwind/tree/main/models">- Desenvolvimento do projeto</a> 
 
+
+
+
+Job para deploy em produção
+
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/36814309/222620030-140bd7a1-362d-485e-ab32-d48366e44b53.png">
 
 
 
