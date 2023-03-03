@@ -34,4 +34,8 @@ Repositório de estudos sobre o Data Build Tool.
 
 - Criar o job para realização do deploy em produção.
 
-<a href="https://github.com/JevertonFlores/learn_dbt_db_northwind/blob/main/6.1.Apresenta%C3%A7%C3%A3o%20da%20Atividade%20Pr%C3%A1tica.pdf">Doc com as regras a serem aplicadas</a> 
+
+<a href="https://github.com/JevertonFlores/learn_dbt_db_northwind/blob/main/6.1.Apresenta%C3%A7%C3%A3o%20da%20Atividade%20Pr%C3%A1tica.pdf">- Doc com as regras a serem aplicadas</a> 
+
+<a href="https://github.com/JevertonFlores/learn_dbt_db_northwind/tree/main/models">- Desenvolvimento do projeto</a> 
+
