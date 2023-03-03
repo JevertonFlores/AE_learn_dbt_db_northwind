@@ -48,7 +48,7 @@ final_join as (
     ord.employee,
     ord.age,
     ord.lenght_of_service,
-    sh.company_name
+    ord.company_name
     from ord_details od 
     inner join ordrs ord 
         on (od.order_id = ord.order_id)
