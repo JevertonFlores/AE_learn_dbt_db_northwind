@@ -30,7 +30,8 @@ ordrs as (
     cs.company_name as customer,
     em.name as employee,
     em.age,
-    em.lenght_of_service
+    em.lenght_of_service,
+    sh.company_name
     from {{source('sources', 'orders')}} ord 
     left join {{ref('customers')}} cs 
         on ord.customer_id = cs.customer_id
